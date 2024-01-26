@@ -1,1 +1,1 @@
-## 🤖Opne AI API 활용 pratice 만들기
+## 🤖Opne AI API 활용 practice 만들기
